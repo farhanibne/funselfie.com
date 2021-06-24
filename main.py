@@ -1,3 +1,8 @@
+# before coding make sure you have installed python opencv-contrib in your IDE terminal
+
+
+
+
 import cv2
 import datetime
 cap = cv2.VideoCapture(0)
